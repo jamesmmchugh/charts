@@ -13,7 +13,7 @@ sources:
 version: 2.6.5
 dependencies:
   - name: common
-    version: 1.7.1
+    version: 1.16.1
     repository: https://charts.bitnami.com/bitnami/
   - name: mongodb
     version: 10.0.5
